@@ -1,0 +1,33 @@
+﻿/*Selector{
+	property: value;
+}*/
+html, body{
+	height: 100%;
+	background-image: url('bg.jpg');
+	 background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	background-attachment: fixed;
+}
+div{
+	font-size: 40px;
+	color: red;
+	text-align: center;
+	font-family: 'Reem Kufi', "sans-serrif";
+	font-weight: bold;
+	background-color: gray;
+}
+p{
+	color: white;
+	font-family: 'comic sans MS', cursive, "sans-serrif";
+	direction: rtl;
+	font-size: 30px;
+	text-indent: 5%;
+	font-weight: bold;
+}
+span{
+	font-size: 45px;
+	color: #ff8533;
+	font-weight: bold;
+	text-align: center;
+}
